@@ -14,6 +14,7 @@ requires 'HTTP::Tiny';
 requires 'Test::Exception';
 requires 'Mock::Quick';
 requires 'Minilla';
+requires 'Carton';
 
 # Logs
 requires 'Log::Any';
